@@ -12,6 +12,6 @@ function Button({ label, real, onClick, classes = [] }) {
       <span>{label}</span>
     </button>
   );
-}
+}  
 
 export default Button;
